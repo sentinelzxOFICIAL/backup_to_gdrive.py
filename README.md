@@ -31,7 +31,6 @@ A script to automate backups of important files in Termux to Google Drive.
 4. Clone the repository:
     ```bash
     git clone https://github.com/sentinelzxOFICIAL/backup_to_gdrive.py
-    cd termux-backup-automation
     ```
 
 ## Setup
@@ -45,15 +44,11 @@ A script to automate backups of important files in Termux to Google Drive.
 
 ## Usage
 
-1. Navigate to the project directory:
-    ```bash
-    cd termux-backup-automation
-    ```
-2. Run the script:
+1. Run the script:
     ```bash
     python backup_to_gdrive.py
     ```
-3. Follow the prompts to authenticate with Google Drive.
+2. Follow the prompts to authenticate with Google Drive.
 
 ## Contributing
 
