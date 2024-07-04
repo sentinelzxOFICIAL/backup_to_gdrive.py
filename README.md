@@ -30,7 +30,7 @@ A script to automate backups of important files in Termux to Google Drive.
     ```
 4. Clone the repository:
     ```bash
-    git clone https://github.com/sentinelzxOFICIAL/termux-backup-automation.git
+    git clone https://github.com/sentinelzxOFICIAL/backup_to_gdrive.py
     cd termux-backup-automation
     ```
 
